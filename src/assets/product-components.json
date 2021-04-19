@@ -1,0 +1,70 @@
+[
+    {
+      "name": "Processor",
+      "variants": [
+        {
+          "title": "2.3GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 4.8GHz",
+          "price": 0
+        },
+        {
+          "title": "2.4GHz 8-core 9th-generation Intel Core i9 processor, Turbo Boost up to 5.0GHz",
+          "price": 20000
+        }
+      ]
+    },
+    {
+      "name": "Memory",
+      "variants": [
+        {
+          "title": "16GB 2666MHz DDR4 memory",
+          "price": 0
+        },
+        {
+          "title": "32GB 2666MHz DDR4 memory",
+          "price": 40000
+        },
+        {
+          "title": "64GB 2666MHz DDR4 memory",
+          "price": 80000
+        }
+      ]
+    },
+    {
+      "name": "Graphics",
+      "variants": [
+        {
+          "title": "AMD Radeon Pro 5500M with 4GB of GDDR6 memory",
+          "price": 0
+        },
+        {
+          "title": "AMD Radeon Pro 5500M with 8GB of GDDR6 memory",
+          "price": 10000
+        },
+        {
+          "title": "AMD Radeon Pro 5600M with 8GB of HBM2 memory",
+          "price": 70000
+        }
+      ]
+    },
+    {
+      "name": "Storage",
+      "variants": [
+        {
+          "title": "1TB SSD storage",
+          "price": 0
+        },
+        {
+          "title": "2TB SSD storage",
+          "price": 40000
+        },
+        {
+          "title": "4TB SSD storage",
+          "price": 100000
+        },
+        {
+          "title": "8TB SSD storage",
+          "price": 220000
+        }
+      ]
+    }
+  ]
